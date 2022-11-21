@@ -1,4 +1,3 @@
-# giy workshop
 # Node.js(小賴老師)上課第一次心得
 ## 02_許紫晴
 
